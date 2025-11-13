@@ -1,0 +1,4 @@
+timestamp,run_id,source,kpi_name,kpi_value,sample_size,status,error
+2025-11-13T12:35:20.117Z,1763037320117,open-meteo,avg_temp_24h,39.68,192,OK,
+2025-11-13T12:49:47.445Z,1763038187445,open-meteo,avg_temp_24h,39.68,192,OK,
+2025-11-13T12:52:44.503Z,1763038364503,open-meteo,avg_temp_24h,39.68,192,OK,
